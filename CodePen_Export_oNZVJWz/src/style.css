@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+#title {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#img-caption {
+  font-size: 20px;
+  text-align: center;
+}
+
+#tribute-info {
+  font-size: 18px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+  margin: 2em;
+}
+
+#main {
+  text-align: center;
+}
